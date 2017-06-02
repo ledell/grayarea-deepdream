@@ -1,6 +1,6 @@
 # Gray Area DeepDream
 
-This repository is a copy of the original [deepdream](https://github.com/google/deepdream) repository with new images and new [#deepdream](https://twitter.com/hashtag/deepdream) creations.  It was created for the [Gray Area Festival's DeepDream workshop](http://grayareafestival.io/workshops/) in April, 2016.  
+This repository is a copy of the original [deepdream](https://github.com/google/deepdream) repository with new images and new [#deepdream](https://twitter.com/hashtag/deepdream) creations.  It was created for the [Gray Area Festival's DeepDream workshop](https://gafest2016.wpengine.com/) in April, 2016.  
 
 Slides accompanying this workshop are available in [pdf](http://tinyurl.com/grayarea-deepdream-pdf) (no video clips) and [keynote](http://tinyurl.com/grayarea-deepdream-key) format (includes video clips).  
 
